@@ -1,3 +1,3 @@
-# leafbarrow :fallen_leaf:
+# leafbarrow 🍂
 
 _Coming soon_
